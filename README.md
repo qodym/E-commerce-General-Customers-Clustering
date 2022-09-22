@@ -7,6 +7,22 @@ Hi, I'm Aldy Budhi Iskandar, a Data Scientist Enthusiast that just started my da
 
 This dataset consists of **24354 rows** and **7 columns**. In this project, we will do e-commerce customer value analysis through LRFMC indicators by performing K-Means clustering algorithm.
 
+Contents:
+
+`user_id` : Customers ID (unique value).
+
+`total_transaction` : Total of customers transaction.
+
+`total_money_spent` : Total of customers spent money (in IDR).
+
+`tran_with_disc` : Total customers transaction using promo/discount.
+
+`last_order_date` : Date on the customers last transaction (DateTime).
+
+`created_at` : Customer join date (DateTime).
+
+`data_pulled_date` : Date on data customers loaded (DateTime).
+
 ## **Background & The Steps**
 **Background**
 

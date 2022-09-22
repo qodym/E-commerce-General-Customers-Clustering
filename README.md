@@ -40,6 +40,6 @@ Contents:
 * Analyze the result - customer value analysis.
 
 ## **Conclusion**
-From a variety of customers, can be classified into **4 groups** of the **four parameters** set (LRMFC) with the help of visualization using **Radar Chart** which aims to make clustering each user easier.
+From a variety of customers, can be classified into **4 groups** of the **five parameters** set (LRMFC) with the help of visualization using **Radar Chart** which aims to make clustering each user easier.
 
 Let's Check out my pdf presentation and python code jupyter notebook!!! Don't hesitate to contact me if you want to do some correction or discussion! aldybudhi003@gmail.com or https://www.linkedin.com/in/aldybudhi/ #DataScience #ClusteringModelling #DataCleansing #OutlierHandling
